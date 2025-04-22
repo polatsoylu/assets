@@ -1,0 +1,11 @@
+{
+  "name": "AquaCoin",
+  "symbol": "AQUA",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "AquaCoin, sürdürülebilir peyzaj mimarlığını dijitalleştiren yenilikçi bir BEP20 tokenidir.",
+  "website": "https://aquacoin.finance",
+  "explorer": "https://bscscan.com/token/0xbed161C68C57D485d8B5EA57c04fD96E43887A1E",
+  "status": "active",
+  "id": "0xbed161C68C57D485d8B5EA57c04fD96E43887A1E"
+}
